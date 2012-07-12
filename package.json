@@ -5,7 +5,7 @@
     "main": "./lib/engine.ns.io",
     "dependencies": {
         "coffee-script": "*",
-        "engine.io": "git://github.com/ruxkor/engine.io.git",
+        "engine.io": "git://github.com/pokermania/engine.io.git",
         "engine.ns.io-base": "git://github.com/pokermania/engine.ns.io-base.git"
     }
 }
